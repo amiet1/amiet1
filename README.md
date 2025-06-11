@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiet1" alt="amiet1" /></a> </p>
 
-- 🔭 I’m currently working on **Script-Sync**
+- 🔭 I’m currently working on **Calorie Cal AI**
 
-- 🌱 I’m currently learning **Prisma and connecting with Supabase**
+- 🌱 I’m currently learning **AI Prompting**
 
 - 👯 I’m looking to collaborate on **artsy projects and exploration in new ideas !**
 
