@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiet1" alt="amiet1" /></a> </p>
 
-- 🔭 I’m currently working on **Calorie Cal AI**
+- 🔭 I’m currently working on **StoreIt**
 
 - 🌱 I’m currently learning **AI Prompting**
 
@@ -18,8 +18,6 @@
 - 💬 Ask me about **react ~ next.js ~ python**
 
 - 📫 How to reach me **tahjamie1@gmail.com**
-
-- 📄 Know about my experiences([https://docs.google.com/document/d/1xPshBTecymjRBEvTG0iPFKc1XXtRIbDR/edit?usp=sharing&ouid=114707414101014797099&rtpof=true&sd=true](https://docs.google.com/document/d/1BNjIsRWKRCruj85YDOU0MBTzM-Yd4Yp5Zx1vEgUoRo4/edit?tab=t.0))
 
 - ⚡ Fun fact **I've been passionate about singing since the age of three, and over the years, that love for the arts has only grown. Today, I not only continue to perform but also direct my own films, with the exciting opportunity to have starred in three movies!**
 
